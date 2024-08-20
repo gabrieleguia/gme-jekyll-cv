@@ -113,15 +113,20 @@ experience:
       Java, Spring, JSP, JSF, jQuery, iBatis, Hibernate, Oracle DB, BPM, Mongo
 
 publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+  - title: Arquitectura hexagonal y otras yerbas con Java y Spring 4
+    link: https://adictosaltrabajo.com/2024/07/02/arquitectura-hexagonal-y-otras-yerbas-con-java-y-spring-4/
+    authors: Gabriel Eguia
+    conference: Adictos al trabajo, 2024
 
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
+  - title: Arquitectura Hexagonal con Java y Spring 3 + CQRS / Casos de uso
+    link: https://adictosaltrabajo.com/2024/06/10/arquitectura-hexagonal-con-java-y-spring-3/
+    authors: Gabriel Eguia
+    conference: Adictos al trabajo, 2024
+
+  - title: Arquitectura Hexagonal con Java y Spring 2
+    link: https://adictosaltrabajo.com/2024/06/09/arquitectura-hexagonal-con-java-y-spring-2/
+    authors: Gabriel Eguia
+    conference: Adictos al trabajo, 2024
 
 projects:
   - title: Cool Project 
