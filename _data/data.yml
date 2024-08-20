@@ -4,12 +4,13 @@ fork: true
 
 # Sidebar
 contact:
-  #email: gabrieleguia@gmail.com
+  email:
   github: gabrieleguia
   linkedin: gabrieleguia
   phone: 
   gitlab: gabrieleguia
   twitter: gabrieleguia
+  blog: https://blog.gme.com.ar/
 
 languages:
   - idiom: Spanish
