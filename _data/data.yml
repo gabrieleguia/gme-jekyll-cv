@@ -17,13 +17,13 @@ languages:
   - idiom: English
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Information Systems Engineer
+    time: 2014-Unfinished (6 out of 10 semesters)
+    university: Universidad Tecnológica Nacional
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Electronics Technician
+    time: 1995-2000
+    university: Escuela Técnica Nº28 DE Nº10 "República Francesa"
 
 skills:
   - category: Backend
@@ -80,7 +80,7 @@ experience:
     time: 2014-2019
     company: HAL|9000 Systems
     details: |
-      We were a small team of freelance developers working for many customers.</br>
+      We were a small team of freelance developers working for many clients.</br>
       Our responsibilities included requirements and software analysis, design and development as fullstack developer.
       Implemented continuous delivery system and development environment configuration.
       Maintainer and administrator of team Gitlab repository.
