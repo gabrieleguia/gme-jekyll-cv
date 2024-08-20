@@ -39,7 +39,12 @@ skills:
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes 
+      - Kubernetes
+  - category: Database
+    skill:
+      - Oracle
+      - PostgreSQL
+      - Mongo
 
 # Profile
 profile: |
@@ -49,29 +54,44 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Software Developer
+    time: 2019-Present
+    company: Autentia
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Microservices and REST APIs development, built in Kotlin + Micronaut and Java + Spring, with SQL and No-SQL databases like PostgreSQL and Mongo.
+      Collaborated in architecture definition and integrations development.
+      Web and hybrid mobile apps development in Angular and Ionic.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Java, Kotlin, Spring, Micronaut, Angular, Typescript, Ionic, PostgreSQL, Mongo
+
+  - role: Software Developer
+    time: 2017-2019
+    company: Kwan Mobile
+    details: |
+      As freelance developer.
+      Senior fullstack software developer, system analyst and designer. Worked with Java + Spring + Hibernate and JSP + jQuery.
+      Involved in the analysis, design, definition and development of the IT architecture for the backend of the traffic tickets report system of GCBA (Gobierno de la Ciudad de Buenos Aires).
+    technologies_used: |
+      Java, Spring, JSP, Hibernate, jQuery, PostgreSQL
+
+  - role: Software Developer
+    time: 2014-2019
+    company: HAL|9000 Systems
+    details: |
+      We were a small team of freelance developers working for many customers.
+      Requirements and software analysis, design and development as fullstack developer. Implemented continuous delivery system and development environment configuration.
+      Maintainer and administrator of team Gitlab repository.
+    technologies_used: |
+      Java, Spring, JSP, Hibernate, jQuery, PostgreSQL, C#, ASP.NET, Entity, PHP, Laravel
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Software Developer
+    time: 2009-2019
+    company: La Caja de Ahorro y Seguro
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      Fullstack developer. Design, analysis and development. Oracle BPM analyst, designer, developer and administrator. IBM BPM analyst and integration developer.
+      Backend and REST API developer. Implemented company’s first CI/CD attempts with Docker and Jenkins. Design, analysis and development.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Java, Spring, JSP, JSF, jQuery, iBatis, Hibernate, Oracle DB, BPM, Mongo
 
 publications:
   - title: Random title of paper. An interesting one.
