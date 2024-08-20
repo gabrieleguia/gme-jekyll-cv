@@ -58,15 +58,10 @@ experience:
     time: 2019-Present
     company: Autentia
     details: |
-      Startup in the energy sector focused in decentralized renewable energies</br>
-      Microservices and REST APIs development, built in Kotlin + Micronaut, with SQL and No-SQL databases like PostgreSQL and Mongo.
+      Worked in projects in transport and renewable energy sectors.</br>
+      Microservices and REST APIs development, built in Kotlin + Micronaut and Java + Spring, with SQL and No-SQL databases like PostgreSQL and Mongo.
       Collaborated in architecture definition and integrations development.
       Web and hybrid mobile apps development in Angular and Ionic.
-      </br>
-      International association in the transport sector</br>
-      Microservices and REST APIs development, built in Java + Spring ans PostgreSQL.
-      Collaborated in architecture definition and integrations development.
-      Web app development in Angular.
     technologies_used: | 
       Java, Kotlin, Spring, Micronaut, Angular, Typescript, Ionic, PostgreSQL, Mongo
 
@@ -75,7 +70,8 @@ experience:
     company: Kwan Mobile
     details: |
       As freelance developer.</br>
-      Senior fullstack software developer, system analyst and designer. Worked with Java + Spring + Hibernate and JSP + jQuery.
+      Senior fullstack software developer, system analyst and designer.
+      Worked with Java + Spring + Hibernate and JSP + jQuery.
       Involved in the analysis, design, definition and development of the IT architecture for the backend of the traffic tickets report system of GCBA (Gobierno de la Ciudad de Buenos Aires).
     technologies_used: |
       Java, Spring, JSP, Hibernate, jQuery, PostgreSQL
@@ -84,8 +80,9 @@ experience:
     time: 2014-2019
     company: HAL|9000 Systems
     details: |
-      We were a small team of freelance developers working for many customers.
-      Our responsibilities included requirements and software analysis, design and development as fullstack developer. Implemented continuous delivery system and development environment configuration.
+      We were a small team of freelance developers working for many customers.</br>
+      Our responsibilities included requirements and software analysis, design and development as fullstack developer.
+      Implemented continuous delivery system and development environment configuration.
       Maintainer and administrator of team Gitlab repository.
     technologies_used: |
       Java, Spring, JSP, Hibernate, jQuery, PostgreSQL, C#, ASP.NET, Entity, PHP, Laravel
@@ -94,9 +91,25 @@ experience:
     time: 2009-2019
     company: La Caja de Ahorro y Seguro
     details: |
-      Fullstack developer. Design, analysis and development. Oracle BPM analyst, designer, developer and administrator. IBM BPM analyst and integration developer.
-      Backend and REST API developer. Implemented company’s first CI/CD attempts with Docker and Jenkins. Design, analysis and development.
+      Fullstack developer.
+      Design, analysis and development.
+      Oracle BPM analyst, designer, developer and administrator.
+      IBM BPM analyst and integration developer.
+      Backend and REST API developer.
+      Implemented company’s first CI/CD attempts with Docker and Jenkins.
+      Design, analysis and development.
     technologies_used: | 
+      Java, Spring, JSP, JSF, jQuery, iBatis, Hibernate, Oracle DB, BPM, Mongo
+
+  - role: Software Developer
+    time: 2008-2009
+    company: Huenei IT Services
+    details: |
+      Worked in projects for banking and consulting clients.</br>
+      Systems Designer and J2EE Application Developer on Oracle's Siebel Retail Finance platform.
+      Unix based J2SE Application Developer, using Reflection, AWT and Swing among others.
+      J2EE Homebanking application Developer, using Hibernate, Struts, Springs, JSP, JavaScritp, AJAX and SQL.
+    technologies_used: |
       Java, Spring, JSP, JSF, jQuery, iBatis, Hibernate, Oracle DB, BPM, Mongo
 
 publications:
