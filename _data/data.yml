@@ -68,7 +68,7 @@ experience:
     time: 2017-2019
     company: Kwan Mobile
     details: |
-      As freelance developer.
+      As freelance developer.|
       Senior fullstack software developer, system analyst and designer. Worked with Java + Spring + Hibernate and JSP + jQuery.
       Involved in the analysis, design, definition and development of the IT architecture for the backend of the traffic tickets report system of GCBA (Gobierno de la Ciudad de Buenos Aires).
     technologies_used: |
@@ -79,7 +79,7 @@ experience:
     company: HAL|9000 Systems
     details: |
       We were a small team of freelance developers working for many customers.
-      Requirements and software analysis, design and development as fullstack developer. Implemented continuous delivery system and development environment configuration.
+      Our responsibilities included requirements and software analysis, design and development as fullstack developer. Implemented continuous delivery system and development environment configuration.
       Maintainer and administrator of team Gitlab repository.
     technologies_used: |
       Java, Spring, JSP, Hibernate, jQuery, PostgreSQL, C#, ASP.NET, Entity, PHP, Laravel
