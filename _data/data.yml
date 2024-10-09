@@ -58,8 +58,8 @@ experience:
     time: 2019-Present
     company: Autentia
     details: |
-      Worked in projects in transport and renewable energy sectors.</br>
-      Microservices and REST APIs development, built in Kotlin + Micronaut and Java + Spring, with SQL and No-SQL databases like PostgreSQL and Mongo.
+      Worked in projects in transport, renewable energy and textile sectors.</br>
+      Microservices and REST APIs development, built in Kotlin + Micronaut and Java + Spring, with SQL and No-SQL databases like PostgreSQL and Mongo, AWS Lambda and services, and more.
       Collaborated in architecture definition and integrations development.
       Web and hybrid mobile apps development in Angular and Ionic.
     technologies_used: | 
