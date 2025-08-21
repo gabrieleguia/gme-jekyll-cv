@@ -54,18 +54,29 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Developer
-    time: 2019-Present
-    company: Autentia
+  - role: Senior Software Developer
+    time: 2024-Present
+    company: Izertis
     details: |
-      Worked in projects in transport, renewable energy and textile sectors.</br>
+      Worked in projects in textile sector.</br>
+      Microservices and REST APIs development, built in Java + Spring, with SQL and No-SQL databases like PostgreSQL and Mongo, AWS Lambda and services, and more.
+      Collaborated in architecture definition and integrations development.
+      Web and hybrid mobile apps development in Angular and Ionic.
+    technologies_used: | 
+      Java, Spring, AWS Lambda, SQS, PostgreSQL, Mongo
+
+  - role: Senior Software Developer
+    time: 2019-2024
+    company: Autentia by Izertis
+    details: |
+      Worked in projects in transport and renewable energy sectors.</br>
       Microservices and REST APIs development, built in Kotlin + Micronaut and Java + Spring, with SQL and No-SQL databases like PostgreSQL and Mongo, AWS Lambda and services, and more.
       Collaborated in architecture definition and integrations development.
       Web and hybrid mobile apps development in Angular and Ionic.
     technologies_used: | 
       Java, Kotlin, Spring, Micronaut, Angular, Typescript, Ionic, PostgreSQL, Mongo
 
-  - role: Software Developer
+  - role: Senior Software Developer
     time: 2017-2019
     company: Kwan Mobile
     details: |
@@ -76,7 +87,7 @@ experience:
     technologies_used: |
       Java, Spring, JSP, Hibernate, jQuery, PostgreSQL
 
-  - role: Software Developer
+  - role: Senior Software Developer
     time: 2014-2019
     company: HAL|9000 Systems
     details: |
@@ -87,7 +98,7 @@ experience:
     technologies_used: |
       Java, Spring, JSP, Hibernate, jQuery, PostgreSQL, C#, ASP.NET, Entity, PHP, Laravel
   
-  - role: Software Developer
+  - role: Senior Software Developer
     time: 2009-2019
     company: La Caja de Ahorro y Seguro
     details: |
